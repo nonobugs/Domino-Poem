@@ -1,0 +1,9 @@
+Dominos
+
+purple
+orange
+pink
+red
+green
+
+These are the colors of dominoes
