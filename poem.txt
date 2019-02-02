@@ -5,6 +5,7 @@ orange
 pink
 red
 yellow
+black
 green
 
 These are the colors of dominoes
